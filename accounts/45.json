@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "transbull",
+  "private_key_id": "73ea974a8a906239946485d6065811238349d92f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDjuuPPvz0IlcYA\nmubn2+ABK0gUn+3OoOWO7HJ4rqJCMyka4Njrgo3w4uUq9um3V7nTKA06g2AN3cao\nEKpNOoAgcQE69VE6+z//Lh9NyKDji54bkJBir1OoJ0QghtptWXbuIX4GRQ8Skg5h\nvOzLc99zvejsrmMnBBAbwqE1D4SsY/Q1HBkQNP66vbUkuOB/c2B5PACHnfDLRy7h\nO9wb982w9IV7gmbu+/qB+1584tEuvTz4PgAOBSPTB4WNDIaHbnhqTNZVjv6AsAI5\n8TyEezbTbzWwAMaw55ihvCRbZ8qUXMZOw/kGp5gsIlfYghcUqKxoLgEhHQ4eIcPl\nQ05+ZNcjAgMBAAECggEAUNv9I7i9jRzRD0nxDwaNRRz/HQOkRqfumo7uHlezmVnd\nEIQhwY27pHqL8HN3jPgDLSyddddL9eB3NxmjvoQ1Fk/JpguQ6iZoFM1lpBLGvcTH\nQPZVrhSe2agHkp0PVaBckDUoMEW5Elj17lJMqfjcsJYP7GoHHsVcit7Sqqp161du\nzQEa/i14U99qRIYE/IDyMpXUYLF73AxMnPnAa6ZlY3bQsKsdNtT7r9iLU1ObQda8\ncmKNDdV/SfFOUnTsfPQUxXpu560aUtR2FTagwd9sYvb5eOR8JJrbTtXA+AYjmar3\nPc59nxJAyFj3buVOvkF47BPFvWVrwE23DFIGKC8wIQKBgQD3R7RusqAEnkr6kooY\npcEbpTh4Dngyhg/f15LDkkg56rgIF7F7XjRCYrQ6ZpmpAHQ5taT4chSJxTA8N56q\nUhqqUK2CmzN2YdPRO3KxNJyeA8HWnJjsXyilC8JfFXkiuvstSQVpqG7UVEOxMHUw\niPh1QxcTC9nnS86hc8hOWgaHuQKBgQDrwrLvtBzs5RIMRGwmuEDQ25UXcLMxFcE2\nsFkZ4vactX12M2P8mJxj9ASuJ5dvipBocAtLl8Z5+wAN6EhbfpyXtu10OX0FB6ko\nSOCQ5SevxxTM+urSoODQfsBS80GhqyXI5DzF6tHRCcY7BXcWx7WBTGwrhf2iBF1O\njt02/gDLuwKBgQDw2cWToKYdeXR8VSju0tuhKq8yuJ04UL27f8QyexOgXc88Cp/T\nErGCC5OR4oc+RfPulc8GMk9w1UCjFmWTbX8NbqFhuftJDgX7IJUYpq75dZ1ihIqq\niBEVmLuMU2T2f/rQY/RCskyowR5hwloSmQavaFZcNcna8EpllVl/f04m+QKBgQCP\nHELOKsEcM/j+pVIZNuNxZLld3zWG6DO+5NFRW2pjue+MnqllHaZhLjDhHntYY/5A\nxzK0Ek+SoABqcMPrdjHMDmiZkoQHV50hLQvUKKYsl2ZS/0Un0ixlo2tPbwY6AtAO\n4Czb3yy5/XrtPOYLV/Mfp6pJyS4q+QdCtool5Y3KHQKBgEWzeAkzl6gAstKKJvVt\n4Ftw5xGvEBNptgVNUMB4+8C6RfdSJhEAp4KsgA8uIr/FHDF3LTfgadMl3mcjwsUp\npmmdKr170HhYiSEjD9xTfYB/VRJGBOiHoaQihoK9NTWFht8Pl6BZEFScZ5dAjxoo\nokZmIEJYj+dxPvpbEKBKutka\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-iu1wqd38obljyvcgu-d5ldzz78@transbull.iam.gserviceaccount.com",
+  "client_id": "118339133975091505013",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-iu1wqd38obljyvcgu-d5ldzz78%40transbull.iam.gserviceaccount.com"
+}
